@@ -1,0 +1,33 @@
+body {
+  width: 300px;
+  margin: auto;
+  margin-top: 70px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: rgb(192,253,247);
+  background: linear-gradient(90deg, rgb(34, 169, 210) 31%, rgba(255, 255, 255, 0) 100%);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-radius: 10px;
+}
+
+.style {
+  padding: 5px;
+  background-color: rgba(225, 236, 236, 0.212);
+  cursor: pointer;
+  color: whitesmoke;
+  font-size: 10px;
+  margin-bottom: 20px;    
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+} 
+.bloc2 {
+  padding: 10px;
+}
